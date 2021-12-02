@@ -1,1 +1,2 @@
-# practice3-1
+# MidternAziz
+Midtern Zhussipov Aziz
